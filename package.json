@@ -1,0 +1,23 @@
+{
+  "name": "caesarcipher",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KostyaKulak/CaesarCipher.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "cipher"
+  ],
+  "author": "Kanstantsin Kulak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KostyaKulak/CaesarCipher/issues"
+  },
+  "homepage": "https://github.com/KostyaKulak/CaesarCipher#readme"
+}
